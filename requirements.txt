@@ -1,0 +1,10 @@
+streamlit
+supabase
+groq
+duckduckgo_search
+pandas
+yfinance
+plotly
+fpdf
+requests
+validate_email
